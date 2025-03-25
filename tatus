@@ -1,0 +1,55 @@
+[33mcommit b844caf5d72d9d33225c3dc2c61ad8605cd5a5fc[m[33m ([m[1;36mHEAD -> [m[1;32missue#4[m[33m)[m
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Tue Mar 25 10:40:43 2025 +0100
+
+    update movies & books issue #4
+
+[33mcommit f99f1db7764f492c53d083a4559502ec0f302b8d[m
+Merge: 5c86b10 e160d72
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Tue Mar 25 10:10:23 2025 +0100
+
+    Merge hotfix #5 into main
+
+[33mcommit e160d725fb21867b36881f8c79792c5459113278[m[33m ([m[1;31morigin/hotfix#5[m[33m, [m[1;32mhotfix#5[m[33m)[m
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Tue Mar 25 09:42:49 2025 +0100
+
+    fit bug footnote hotfix #5
+
+[33mcommit 5c86b10953681c791910b4ff0c68b1beb1f801ee[m
+Merge: 834c595 e7c9eec
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Thu Mar 20 12:01:13 2025 +0100
+
+    Merge issue #2 into main
+
+[33mcommit e7c9eecb17ad3a8d0cbf06b7b1c84043a3ecce5e[m[33m ([m[1;31morigin/issue#2[m[33m, [m[1;32missue#2[m[33m)[m
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Thu Mar 20 11:16:34 2025 +0100
+
+    update home page css issue #2
+
+[33mcommit 09600668f2026fa17847cbbfb4d7774d0328a0c9[m
+Author: y.xia_1 <yueqi.xia@alumnos.upm.es>
+Date:   Thu Mar 20 11:00:33 2025 +0100
+
+    update home page body issue #2
+
+[33mcommit f9980b29b2490a0bab1e4787d06106ca93f8bcac[m
+Author: y.xia_1 <yueqi.xia@alumnos.upm.es>
+Date:   Thu Mar 20 10:45:09 2025 +0100
+
+    create home page issue #1
+
+[33mcommit 834c595ddc909544f31ba98fc547c0444b3b92f1[m
+Author: yueqi.x_2 <yueqi.xia@alumnos.upm.es>
+Date:   Thu Mar 20 10:11:44 2025 +0100
+
+    make the application execute issue #1
+
+[33mcommit 49a774a70e4f84cec62b263790c84788f8817031[m
+Author: y.xia_1 <yueqi.xia@alumnos.upm.es>
+Date:   Tue Mar 18 11:24:38 2025 +0100
+
+    add web greeting controller issue #1
